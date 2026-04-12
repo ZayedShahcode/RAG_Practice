@@ -1,0 +1,7 @@
+
+    Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.
+    It involves statistics, machine learning, data visualization, and domain expertise to solve complex problems and make data-driven decisions.
+    Data scientists analyze and interpret complex data to help organizations make informed decisions, identify trends, and gain a competitive edge in various industries such as finance, healthcare, marketing, and more.
+    Data science combines techniques from various fields, including mathematics, computer science, and domain-specific knowledge, to extract valuable insights from data and drive innovation in today's data-driven world.
+    Machine learning, a subset of data science, enables computers to learn from data and make predictions or decisions without being explicitly programmed, further enhancing the capabilities of data science in solving real-world problems.
+    
