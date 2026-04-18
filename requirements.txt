@@ -9,3 +9,5 @@ chromadb
 transformers
 langchain-groq
 python-dotenv
+langchain-google-genai
+langgraph
