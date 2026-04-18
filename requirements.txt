@@ -7,3 +7,5 @@ sentence-transformers
 faiss-cpu
 chromadb
 transformers
+langchain-groq
+python-dotenv
